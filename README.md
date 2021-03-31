@@ -5,7 +5,7 @@
 - [x] Lab 1. Kick off
 - [X] Lab 2. Get started
 - [x] Lab 3. Layouts and resources for the UI
-- [ ] Lab 4. Activities and intents
+- [x] Lab 4. Activities and intents
 - [ ] Lab 5. Implicit Intents
 - [ ] Lab 6. User Interaction
 - [ ] Lab 7. User Interaction
