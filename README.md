@@ -7,8 +7,8 @@
 - [x] Lab 3. Layouts and resources for the UI
 - [x] Lab 4. Activities and intents
 - [x] Lab 5. Implicit Intents
-- [ ] Lab 6. User Interaction
-- [ ] Lab 7. User Interaction
+- [x] Lab 6. User Interaction
+- [x] Lab 7. User Interaction
 - [ ] Lab 8. Material Design
 - [ ] Lab 9. Background Tasks
 - [ ] Lab 10. Notifications
