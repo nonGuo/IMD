@@ -9,7 +9,7 @@
 - [x] Lab 5. Implicit Intents
 - [x] Lab 6. User Interaction
 - [x] Lab 7. User Interaction
-- [ ] Lab 8. Material Design
+- [x] Lab 8. Material Design
 - [ ] Lab 9. Background Tasks
 - [ ] Lab 10. Notifications
 - [ ] Lab 11. Shared Preferences
