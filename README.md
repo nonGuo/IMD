@@ -10,6 +10,6 @@
 - [x] Lab 6. User Interaction
 - [x] Lab 7. User Interaction
 - [x] Lab 8. Material Design
-- [ ] Lab 9. Background Tasks
+- [x] Lab 9. Background Tasks
 - [ ] Lab 10. Notifications
 - [ ] Lab 11. Shared Preferences
