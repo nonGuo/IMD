@@ -12,4 +12,4 @@
 - [x] Lab 8. Material Design
 - [x] Lab 9. Background Tasks
 - [x] Lab 10. Notifications
-- [ ] Lab 11. Shared Preferences
+- [x] Lab 11. Shared Preferences
